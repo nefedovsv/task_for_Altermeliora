@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/task_for_Altermeliora/precache-manifest.2f5641384924b824098db37c71bd80bb.js"
+  "/task_for_Altermeliora/precache-manifest.a64984a4e561675e70a3ca9562f96d1f.js"
 );
 
 self.addEventListener('message', (event) => {
