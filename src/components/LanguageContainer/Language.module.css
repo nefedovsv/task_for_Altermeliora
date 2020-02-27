@@ -1,9 +1,4 @@
-.body{
-    position: relative;
-    left:20px;
-    top:20px
-}
-
-.button{
-    border: solid 10px green;
+.body {
+  margin-left: 20px;
+  margin-top: 20px;
 }
