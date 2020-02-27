@@ -1,0 +1,15 @@
+.body{
+    width: 300px;
+    margin:100px auto;
+    text-align: center;
+}
+
+.form{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
+
+
