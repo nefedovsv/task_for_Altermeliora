@@ -7,8 +7,8 @@ import logger from "redux-logger";
 const sagaMiddleware = createSagaMiddleware();
 
 export const store = createStore(
-	rootReducer,
-	applyMiddleware(sagaMiddleware, logger)
+  rootReducer,
+  applyMiddleware(sagaMiddleware, logger)
 );
 
 sagaMiddleware.run(rootSaga);
