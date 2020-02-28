@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/task_for_Altermeliora/static/css/main.6ad3eca9.chunk.css",
-    "main.js": "/task_for_Altermeliora/static/js/main.0e6e670a.chunk.js",
-    "main.js.map": "/task_for_Altermeliora/static/js/main.0e6e670a.chunk.js.map",
+    "main.js": "/task_for_Altermeliora/static/js/main.abd13ee6.chunk.js",
+    "main.js.map": "/task_for_Altermeliora/static/js/main.abd13ee6.chunk.js.map",
     "runtime-main.js": "/task_for_Altermeliora/static/js/runtime-main.21425087.js",
     "runtime-main.js.map": "/task_for_Altermeliora/static/js/runtime-main.21425087.js.map",
-    "static/css/2.d88ce3aa.chunk.css": "/task_for_Altermeliora/static/css/2.d88ce3aa.chunk.css",
-    "static/js/2.10ba7159.chunk.js": "/task_for_Altermeliora/static/js/2.10ba7159.chunk.js",
-    "static/js/2.10ba7159.chunk.js.map": "/task_for_Altermeliora/static/js/2.10ba7159.chunk.js.map",
+    "static/css/2.b15fc7a9.chunk.css": "/task_for_Altermeliora/static/css/2.b15fc7a9.chunk.css",
+    "static/js/2.5c59e597.chunk.js": "/task_for_Altermeliora/static/js/2.5c59e597.chunk.js",
+    "static/js/2.5c59e597.chunk.js.map": "/task_for_Altermeliora/static/js/2.5c59e597.chunk.js.map",
     "index.html": "/task_for_Altermeliora/index.html",
-    "precache-manifest.f7b420bb35df68177341d5f72c8b5158.js": "/task_for_Altermeliora/precache-manifest.f7b420bb35df68177341d5f72c8b5158.js",
+    "precache-manifest.97b8773b53e0ddb46d4fa5ba6e4fb202.js": "/task_for_Altermeliora/precache-manifest.97b8773b53e0ddb46d4fa5ba6e4fb202.js",
     "service-worker.js": "/task_for_Altermeliora/service-worker.js",
-    "static/css/2.d88ce3aa.chunk.css.map": "/task_for_Altermeliora/static/css/2.d88ce3aa.chunk.css.map",
+    "static/css/2.b15fc7a9.chunk.css.map": "/task_for_Altermeliora/static/css/2.b15fc7a9.chunk.css.map",
     "static/css/main.6ad3eca9.chunk.css.map": "/task_for_Altermeliora/static/css/main.6ad3eca9.chunk.css.map",
-    "static/js/2.10ba7159.chunk.js.LICENSE.txt": "/task_for_Altermeliora/static/js/2.10ba7159.chunk.js.LICENSE.txt"
+    "static/js/2.5c59e597.chunk.js.LICENSE.txt": "/task_for_Altermeliora/static/js/2.5c59e597.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.21425087.js",
-    "static/css/2.d88ce3aa.chunk.css",
-    "static/js/2.10ba7159.chunk.js",
+    "static/css/2.b15fc7a9.chunk.css",
+    "static/js/2.5c59e597.chunk.js",
     "static/css/main.6ad3eca9.chunk.css",
-    "static/js/main.0e6e670a.chunk.js"
+    "static/js/main.abd13ee6.chunk.js"
   ]
 }

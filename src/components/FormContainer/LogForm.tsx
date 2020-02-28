@@ -116,11 +116,7 @@ const LogForm: React.FC<ILogForm> = ({ form }) => {
           {login ? t("logIn") : t("signUp")}
         </Button>
         <h4>{login ? t("unRegistered") : t("registered")}</h4>
-        <Button
-          type="primary"
-          disabled={!isLoaded}
-          onClick={() => setLogStatus(!login)}
-        >
+        <Button disabled={!isLoaded} onClick={() => setLogStatus(!login)}>
           {login ? t("signUp") : t("logIn")}
         </Button>
       </Form>
